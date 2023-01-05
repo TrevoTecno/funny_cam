@@ -6,7 +6,7 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Wall picturee - Trevo news TV.</title>
-  <meta name="description" content="Como capturar fotos do seu notebook ou celular" />
+  <meta name="description" content="Wall pictures - Trevo news TV" />
   <meta name="keywords" content="circle, border-radius, hover, css3, transition, image, thumbnail, effect, 3d" />
   <meta name="author" content="Codrops" />
   <link rel="stylesheet" type="text/css" href="css/demo.css" />
